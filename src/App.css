@@ -1,0 +1,14 @@
+body {
+  background-color: aliceblue;
+}
+.heading {
+  font-family: 'Luckiest Guy', cursive;
+  padding: .25em;
+  color: blue;
+}
+
+.btns{
+  text-align: center;
+  background: #ff6363;
+}
+
